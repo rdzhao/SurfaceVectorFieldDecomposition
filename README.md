@@ -9,9 +9,9 @@ For a input smooth piece-wise constant vector field defined on each face of tria
 This figure shows an input vector field.
 ![alt text](https://github.com/rdzhao/SurfaceVectorFieldDecomposition/blob/master/illustration/original.png) <!-- .element height="50%" width="50%" -->
 
-This figure shows the exact component.
+This figure shows the exact component (Curl-free).
 ![alt text](https://github.com/rdzhao/SurfaceVectorFieldDecomposition/blob/master/illustration/Exact.png) <!-- .element height="50%" width="50%" -->
 
-This figure shows the coexact component.
+This figure shows the coexact component (Divergence-free).
 ![alt text](https://github.com/rdzhao/SurfaceVectorFieldDecomposition/blob/master/illustration/Coexact.png) <!-- .element height="50%" width="50%" -->
 
