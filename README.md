@@ -7,11 +7,11 @@ For a input smooth piece-wise constant vector field defined on each face of tria
 ## Example
 
 This figure shows an input vector field.
-![alt text](https://github.com/rdzhao/SurfaceVectorFieldDecomposition/tree/master/illustrationoriginal.png) <!-- .element height="50%" width="50%" -->
+![alt text](https://github.com/rdzhao/SurfaceVectorFieldDecomposition/blob/master/illustration/original.png) <!-- .element height="50%" width="50%" -->
 
 This figure shows the exact component.
-![alt text](https://github.com/rdzhao/SurfaceVectorFieldDecomposition/tree/master/illustrationExact.png) <!-- .element height="50%" width="50%" -->
+![alt text](https://github.com/rdzhao/SurfaceVectorFieldDecomposition/blob/master/illustration/Exact.png) <!-- .element height="50%" width="50%" -->
 
 This figure shows the coexact component.
-![alt text](https://github.com/rdzhao/SurfaceVectorFieldDecomposition/tree/master/illustrationCoexact.png) <!-- .element height="50%" width="50%" -->
+![alt text](https://github.com/rdzhao/SurfaceVectorFieldDecomposition/blob/master/illustration/Coexact.png) <!-- .element height="50%" width="50%" -->
 
