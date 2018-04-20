@@ -1,4 +1,4 @@
-# SurfaceVectorFieldDecomposition
+# Surface Vector Field Decomposition
 
 This project is a downstream application based on [MagicView](https://github.com/rdzhao/MagicView), a minimalistic OpenGL GUI for viewing 3D models.
 
@@ -7,11 +7,11 @@ For a input smooth piece-wise constant vector field defined on each face of tria
 ## Example
 
 This figure shows an input vector field.
-![alt text](https://github.com/rdzhao/QtViewer/blob/master/illustration/original.png)
+![alt text](https://github.com/rdzhao/SurfaceVectorFieldDecomposition/tree/master/illustrationoriginal.png)
 
 This figure shows the exact component.
-![alt text](https://github.com/rdzhao/QtViewer/blob/master/illustration/Exact.png)
+![alt text](https://github.com/rdzhao/SurfaceVectorFieldDecomposition/tree/master/illustrationExact.png)
 
 This figure shows the coexact component.
-![alt text](https://github.com/rdzhao/QtViewer/blob/master/illustration/Coexact.png)
+![alt text](https://github.com/rdzhao/SurfaceVectorFieldDecomposition/tree/master/illustrationCoexact.png)
 
